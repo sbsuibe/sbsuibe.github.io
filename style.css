@@ -1,0 +1,46 @@
+p{    
+    box-shadow: inset 0px -2px 0px 0px rgb(0, 0, 0) ;
+}
+table, th, td{
+    border: 3px solid rgb(0, 0, 0);
+}
+table{
+    border-collapse:collapse;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:oblique;
+    color: rgb(87, 84, 79);
+    width:100%;
+}
+td{
+    height:20px;
+    vertical-align:middle;
+    padding:15px;
+}
+tr{
+    height:20px;
+    vertical-align:middle;
+    padding:15px;
+}
+h1{
+    background-color: rgb(29, 29, 29);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.846);
+    background: scrollcolor;
+    box-shadow:10px 9px 5px #4b4b4be6;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(87, 84, 79);
+}
+b{
+    font-size: 40pt;
+    font-style: oblique;
+    color: rgba(42, 35, 35, 0.846);
+    font-weight: bolder;
+    text-align: center;
+}
+body{
+    background-color: rgba(255, 255, 255, 0.589);
+}
